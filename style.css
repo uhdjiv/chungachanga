@@ -5,7 +5,7 @@
     border: 0;
 }
 .section-1{
-    background-image: url(./img/Img\ Overlay.png), url(./img/Img.webp) ;
+    background-image: url(./Img\ Overlay.png), url(./Img.webp) ;
     background-repeat: no-repeat ,no-repeat;
     background-size: cover;
     padding: 200px 0;
